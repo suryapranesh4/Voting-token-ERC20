@@ -1,6 +1,7 @@
-# Sample Hardhat Project
+# Hardhat 👷 : Voting token ERC 20 token
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic Hardhat use case. It comes with a sample voting token contract.
+The Smart Contract demonstrates creating an ERC20 standard token using Open Zeppelin Contracts and how an user with the voting token can cast vote.
 
 Try running some of the following tasks:
 
@@ -11,4 +12,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-# Voting-token-ERC20
+
+
